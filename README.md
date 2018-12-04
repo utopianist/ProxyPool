@@ -10,7 +10,7 @@
 
 安装好之后将Redis服务开启
 
-###Redis-py Version
+### Redis-py Version
 Redis server v=3.2.100
 Requires: Python >=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*
 
